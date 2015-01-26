@@ -1,11 +1,11 @@
 # webapp_base_box-cookbook
 
-TODO: Enter the cookbook description here.
+This cookbook will deploy a ruby on rails framework on a Ubuntu 14.04 server to be used for creating a dynamic web app
 
 ## Supported Platforms
 
-TODO: List your supported platforms.
-
+Base box will be for Ubuntu 14.04 
+<!--
 ## Attributes
 
 <table>
@@ -22,6 +22,7 @@ TODO: List your supported platforms.
     <td><tt>true</tt></td>
   </tr>
 </table>
+-->
 
 ## Usage
 
@@ -39,4 +40,4 @@ Include `webapp_base_box` in your node's `run_list`:
 
 ## License and Authors
 
-Author:: YOUR_NAME (<YOUR_EMAIL>)
+Author:: Kyle Scully 
